@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Agon
+comment0.text=\ \r\n\ \ \ (1)\ Write\ the\ abstract\ 'Agon'\ class\ and\ have\ it\ implement\ 'Polygon_Comparable'\r\n\ \ \ (2)\ Declare\ 2\ instance\ variables\ all\ of\ type\ double\:\ mySideLength\ and\ myArea.\r\n\ \ \ (3)\ Declare\ another\ variable\ MY_NUM_SIDES\ as\ a\ final\ int.\r\n\ \ \ (4)\ Write\ 2\ constructors\:\ (a)\ the\ default\ (b)\ another\ that\ takes\ in\ the\ number\r\n\ \ \ \ \ \ \ of\ 'sides'\ and\ the\ 'length'.\ Define\ MY_NUM_SIDES\ to\ equal\ 'sides'.\r\n\ \ \ (4)\ Use\ set-methods\ in\ the\ constructors\ to\ set\ the\ variables\ values.\r\n\ \ \ (5)\ Write/implement\ getMyCategory()\ returns\ "Agon"\r\n\ \ \ \ \ \ \ \ \ NOTE\:\ Write/implement\ getMyType()\ in\ EACH\ of\ the\ subclasses\ and\ NOT\ here\!\r\n\ \ \ (6)\ Write\ 'compareTo()'\ which\ compares\ 2\ polygons\ via\ their\ area.\r\n
+comment1.params=sides\ length
+comment1.target=Agon(int,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=Agon()
+comment3.params=
+comment3.target=java.lang.String\ getMyCategory()
+comment4.params=
+comment4.target=double\ getMyArea()
+comment5.params=
+comment5.target=double\ getMyNumSides()
+comment6.params=
+comment6.target=double\ getMySideLength()
+comment7.params=s
+comment7.target=void\ setMySideLength(double)
+comment8.params=
+comment8.target=void\ calculateArea()
+comment9.params=a
+comment9.target=int\ compareTo(Polygon_Comparable)
+numComments=11

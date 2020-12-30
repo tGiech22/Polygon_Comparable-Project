@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Trapezium
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trapezium\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Trapezium()
+comment2.params=myHeight\ myBase1\ myBase2
+comment2.target=Trapezium(double,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getMyType()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
